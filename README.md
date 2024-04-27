@@ -29,3 +29,6 @@ This is a Node.js Express application with MongoDB. It includes user authenticat
 - `bcrypt`: Library to hash and compare passwords.
 - `express-validator`: Middleware for validating request data.
 
+## Postman Collection
+
+You can test the API endpoints with the provided Postman collection. Click [here](https://www.postman.com/docking-module-meteorologist-38104373/workspace/shared/collection/31892004-ab4daec6-eb78-4d1d-9884-c9975b889ec2?action=share&creator=31892004) to access the collection.
